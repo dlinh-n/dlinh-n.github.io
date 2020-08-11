@@ -3,4 +3,6 @@ layout: misc
 title: Miscellaneous
 ---
 
-# Credits
+## Links
+
+## Credits
