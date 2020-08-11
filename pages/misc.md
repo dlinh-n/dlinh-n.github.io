@@ -6,3 +6,4 @@ title: Miscellaneous
 ## Links
 
 ## Credits
+This GitHub Page is an adaptation of the [Millennial](https://lenpaul.github.io/Millennial/) Jekyll theme created by [Paul Le](https://www.lenpaul.com/). It was forked and modified under the [MIT License](http://choosealicense.com/licenses/mit/). For more information about Millennial (and other fantastic Jekyll themes created by Paul), please visit: [https://github.com/LeNPaul](https://github.com/LeNPaul).
