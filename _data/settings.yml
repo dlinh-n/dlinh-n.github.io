@@ -18,9 +18,9 @@ social:
 #- {icon: 'linkedin', link: 'linkedin.com/in/dam-linh-nguyen-6b1b6b66'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
 #sharing_button_prompt: 'Feel free to share!'
 #related_posts: 'You may also enjoy...'
