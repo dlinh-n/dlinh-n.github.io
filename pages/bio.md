@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: bio
+title: Bio
 ---
 
-Dam Linh Nguyen is a doctoral student at the Department of Economics at New York University. Linh’s research interests include matching theory and applications, industrial organization, and applied microeconomics. Prior to joining NYU, Linh was a Senior Analyst at NERA Economic Consulting, where he specialized in applied industrial organization with a particular focus on antitrust economics. Linh earned a B.Sc. in Applied Mathematics, magna cum laude, from Columbia University and a B.A. in Economics as a Levy Economics Institute Scholar from Bard College.
+Dam Linh Nguyen is a doctoral student at the Department of Economics at New York University. Linh’s research interests include matching theory and applications, industrial organization, and applied microeconomics. Prior to joining NYU, Linh was a Senior Analyst at NERA Economic Consulting, where he specialized in applied industrial organization with a particular focus on antitrust economics. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, software, and agrochemicals. Linh earned a B.Sc. in Applied Mathematics, magna cum laude, from Columbia University and a B.A. in Economics as a Levy Economics Institute Scholar from Bard College.
