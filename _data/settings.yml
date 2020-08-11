@@ -14,7 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope', link: 'mailto:n.linh@nyu.edu'}
-- {icon: 'linkedin', link: 'linkedin.com/in/dam-linh-nguyen-6b1b6b66'}
+#- {icon: 'linkedin', link: 'linkedin.com/in/dam-linh-nguyen-6b1b6b66'}
 
 # Customize site text
 pagination:
