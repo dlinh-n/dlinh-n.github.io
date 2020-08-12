@@ -2,9 +2,8 @@
 layout: misc
 title: Miscellaneous
 ---
-
-<br>
-
+  
+  
 ## Economics
 
 
