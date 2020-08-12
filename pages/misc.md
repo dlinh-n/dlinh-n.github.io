@@ -5,7 +5,6 @@ title: Miscellaneous
 
 <br>
 
-## Outside of Economics...
 A non-exhaustive medley of individuals/projects that have inspired me over the years:
 
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
@@ -13,5 +12,18 @@ A non-exhaustive medley of individuals/projects that have inspired me over the y
 <a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
-## Disclaimer
+
+<br>
+
+This GitHub Page builds upon the
+<a href="https://lenpaul.github.io/Millennial/" target="_blank" rel="noopener noreferrer">Millennial</a>
+Jekyll theme created by 
+<a href="https://www.lenpaul.com/" target="_blank" rel="noopener noreferrer">Paul Le</a>.
+It was forked and modified under the 
+<a href="http://choosealicense.com/licenses/mit/" target="_blank" rel="noopener noreferrer">MIT License</a>. 
+For more information about Millennial (and other excellent themes developed by Paul), visit: 
+<a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
+
+<br>
+
 This website is under the sole responsibility of its author.
