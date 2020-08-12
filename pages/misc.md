@@ -30,7 +30,14 @@ A non-exhaustive medley of inspiring individuals, projects, and articles, by cat
 <br> 
 
 ## Credits  
-This GitHub Page builds upon the [Millennial](https://lenpaul.github.io/Millennial/) Jekyll theme created by [Paul Le](https://www.lenpaul.com/). It was forked and modified under the [MIT License](http://choosealicense.com/licenses/mit/). For more information about Millennial (and other excellent themes developed by Paul), visit: [https://github.com/LeNPaul](https://github.com/LeNPaul).
+This GitHub Page builds upon the 
+<a href="https://lenpaul.github.io/Millennial/" target="_blank" rel="noopener noreferrer">Millennial</a>
+Jekyll theme created by 
+<a href="https://www.lenpaul.com/" target="_blank" rel="noopener noreferrer">Paul Le</a>
+It was forked and modified under the 
+<a href="http://choosealicense.com/licenses/mit/" target="_blank" rel="noopener noreferrer">MIT License</a>. 
+For more information about Millennial (and other excellent themes developed by Paul), visit: 
+<a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
 
 <br>
 
