@@ -26,6 +26,8 @@ A non-exhaustive medley of inspiring individuals, projects, and interesting arti
 
 @NPR: <a href="https://www.npr.org/2011/05/02/135840639/booker-t-jones-tiny-desk-concert" target="_blank" rel="noopener noreferrer">Booker T. Jones: Tiny Desk Concert</a>. May 2011.
 
+<a href="https://www.imdb.com/title/tt4432912/" target="_blank" rel="noopener noreferrer">Song of Lahore</a>. Music Documentary. November 2015. \[Overview and Trailer via IMDb\].
+
 
 ### Sports  
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide via Sports.  
