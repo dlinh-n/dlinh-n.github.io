@@ -18,7 +18,7 @@ A non-exhaustive medley of inspiring individuals, projects, articles, and others
 
 ### Art  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>, Artist/Illustrator (and Friend)  
-<a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">@NYT: 17 Artists Capture a Surreal New York From Their Windows</a>
+@NYT: <a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">17 Artists Capture a Surreal New York From Their Windows</a>
 
 ### Music  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>, Musician (and Friend)
