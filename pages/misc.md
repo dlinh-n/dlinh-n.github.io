@@ -20,8 +20,8 @@ A non-exhaustive medley of inspiring people and projects:
 ## Credits
 
 This website is powered by 
-<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
-It was built upon the
+<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
+and builds upon the
 <a href="https://lenpaul.github.io/Millennial/" target="_blank" rel="noopener noreferrer">Millennial</a>
 Jekyll theme created by 
 <a href="https://www.lenpaul.com/" target="_blank" rel="noopener noreferrer">Paul Le</a>.
@@ -36,4 +36,4 @@ For more information about Millennial (and other excellent themes developed by P
 
 ## Disclaimer
 
-This website is under the sole responsibility of its author.
+This website and the underlying repository are under the sole responsibility of its author.
