@@ -9,18 +9,10 @@ google-ID: ''
 menu:
 - {name: 'bio', folder: 'pages', file: 'bio.html'}
 - {name: 'research', folder: 'pages', file: 'research.html'}
+- {name: 'links', folder: 'pages', file: 'links.html'}
 - {name: 'misc', folder: 'pages', file: 'misc.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope', link: 'mailto:n.linh@nyu.edu'}
 #- {icon: 'linkedin', link: 'linkedin.com/in/dam-linh-nguyen-6b1b6b66'}
-
-# Customize site text
-#pagination:
-#  next_page: 'Newer'
-#  previous_page: 'Older'
-
-#sharing_button_prompt: 'Feel free to share!'
-#related_posts: 'You may also enjoy...'
-#post_date_prefix: 'Written on'
