@@ -11,7 +11,7 @@ title: Miscellaneous
 
 <br>
 
-## Other Links  
+## Other
 A non-exhaustive medley of inspiring individuals, projects, and articles, by category (excluding economics, at least directly):
 
 ### Art  
