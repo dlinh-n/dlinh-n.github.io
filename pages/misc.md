@@ -12,8 +12,6 @@ A non-exhaustive medley of inspiring individuals and projects, by category (excl
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
 
-<br>
-
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
 
