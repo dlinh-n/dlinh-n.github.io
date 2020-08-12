@@ -6,7 +6,7 @@ title: Miscellaneous
 <br>
 
 ## Outside of Economics...
-A non-exhaustive medley of individuals and projects that have inspired me over the years: 
+A non-exhaustive medley of individuals/projects that have inspired me over the years: 
 
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
