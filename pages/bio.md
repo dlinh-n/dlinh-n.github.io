@@ -16,7 +16,7 @@ title: Bio/CV
 <br>
 
 <details>
-  <summary> CV </summary>
+  <summary> Expand </summary>
   
   <br>
   
