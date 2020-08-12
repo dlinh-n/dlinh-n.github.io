@@ -38,7 +38,7 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
 
 <br>
 
-## Beyond Economics  
+## Beyond Economics...  
 A non-exhaustive medley of inspiring people and projects:  
 
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
