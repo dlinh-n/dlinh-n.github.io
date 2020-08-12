@@ -3,13 +3,8 @@ layout: misc
 title: CV
 ---
 
-<details>
-  <summary> Expand </summary>
+<br>
   
-  <br>
-  
-  ## Education
+## Education
 
-  ## Languages
-  
-</details>
+## Languages
