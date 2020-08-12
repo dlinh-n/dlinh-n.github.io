@@ -17,10 +17,10 @@ in R, Python, and a Streamlit interactive app for solving equilibrium solutions 
 *By 
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a> (Columbia) 
 and
-<a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)*
+<a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU).*
 
 <details>
-  <summary> Info </summary>
+  <summary> More Info </summary>
   
   <br>
   
