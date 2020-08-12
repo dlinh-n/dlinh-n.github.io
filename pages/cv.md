@@ -9,6 +9,14 @@ title: Curriculum Vitae
 
 <br>
 
+## Research Experience
+
+<br>
+
+## Other Experience  
+
+<br>
+
 ## Skills
 
 **Computer**:  
