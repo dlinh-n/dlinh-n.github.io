@@ -13,8 +13,5 @@ A non-exhaustive medley of individuals/projects that have inspired me over the y
 <a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
-
-<br>
-
 ## Disclaimer
 This website is under the sole responsibility of its author.
