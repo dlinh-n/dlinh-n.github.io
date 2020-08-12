@@ -36,4 +36,4 @@ For more information about Millennial (and other excellent themes developed by P
 
 ## Disclaimer
 
-This website and the underlying repository are under the sole responsibility of its author.
+This website is under the sole responsibility of its author.
