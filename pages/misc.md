@@ -3,6 +3,7 @@ layout: misc
 title: Miscellaneous
 ---
 
+<br>
 
 ## Co-authors
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>, Professor of Economics at Columbia University  
