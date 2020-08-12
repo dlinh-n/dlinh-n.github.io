@@ -6,7 +6,8 @@ title: Miscellaneous
 <br>
 
 ## Outside of Economics...
-A non-exhaustive medley of individuals/projects that have inspired me over the years:  
+A non-exhaustive medley of individuals/projects that have inspired me over the years:
+
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
 <a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
@@ -22,8 +23,3 @@ It was forked and modified under the
 <a href="http://choosealicense.com/licenses/mit/" target="_blank" rel="noopener noreferrer">MIT License</a>. 
 For more information about Millennial (and other excellent themes developed by Paul), visit: 
 <a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
-
-<br>
-
-## Disclaimer
-This website is under the sole responsibility of its author.
