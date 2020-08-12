@@ -11,14 +11,14 @@ A non-exhaustive medley of inspiring individuals, projects, and interesting arti
 ### Art  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
 
-@NYT: <a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">17 Artists Capture a Surreal New York From Their Windows</a>. April 2020.
+@NYT: <a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">17 Artists Capture a Surreal New York From Their Windows</a>. 2020.
 
 ### Music  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).
 
 @NPR: <a href="https://www.npr.org/2011/05/02/135840639/booker-t-jones-tiny-desk-concert" target="_blank" rel="noopener noreferrer">Booker T. Jones: Tiny Desk Concert</a>. May 2011.
 
-<a href="https://www.imdb.com/title/tt4432912/" target="_blank" rel="noopener noreferrer">Song of Lahore</a>. Music Documentary. November 2015. \[Overview and Trailer via IMDb\].
+<a href="https://www.imdb.com/title/tt4432912/" target="_blank" rel="noopener noreferrer">Song of Lahore</a>. Music Documentary. 2015. \[Overview via IMDb\].
 
 
 ### Sports  
