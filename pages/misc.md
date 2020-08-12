@@ -5,13 +5,15 @@ title: Miscellaneous
 
 <br>
 
-## Co-authors
+## Economics
+
+### Co-authors
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>, Professor of Economics at Columbia University  
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>, Professor of Economics at Columbia University
 
 <br>
 
-## Links
+## Other Links
 A non-exhaustive medley of inspiring individuals, projects, and articles, by category (excluding economics, at least directly):
 
 ### Art  
