@@ -1,6 +1,10 @@
 <footer class="footer">
-  <hr width="200" align = "center">
-  <font color="rgb(105, 105, 105)"> 
-    <div class="post-date"> <a href="mailto:n.linh@nyu.edu"> n.linh [at] nyu.edu </a> </div>
-  </font> 
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endfor %} 
+  <div class="post-date"> 
+    <font color="rgb(169,169,169)">
+      <a href="mailto:n.linh@nyu.edu"> n.linh [at] nyu.edu </a>
+    </font>
+  </div> 
 </footer>
