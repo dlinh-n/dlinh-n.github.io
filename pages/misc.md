@@ -33,4 +33,4 @@ This GitHub Page builds upon the [Millennial](https://lenpaul.github.io/Millenni
 <br>
 
 ## Disclaimer
-The content and views presented on this website are under the full and sole responsibility of its author.
+The content and views expressed on this website are under sole responsibility of its author.
