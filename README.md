@@ -11,4 +11,5 @@ It was forked on August 11, 2020 from the
 and modified under the 
 <a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>. 
 For more information about Millennial (and other excellent themes developed by Paul), visit: 
-<a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
+<a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>. 
+This repository and website are under sole responsibility of its author.
