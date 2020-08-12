@@ -19,5 +19,3 @@ It was forked and modified under the
 <a href="http://choosealicense.com/licenses/mit/" target="_blank" rel="noopener noreferrer">MIT License</a>. 
 For more information about Millennial (and other excellent themes developed by Paul), visit: 
 <a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
-
-This website is under the sole responsibility of its author.
