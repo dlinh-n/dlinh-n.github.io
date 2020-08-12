@@ -19,7 +19,7 @@ A non-exhaustive medley of inspiring individuals (including friends) and interes
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>, Musician (and Friend)
 
 ### Football  
-<a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>, Non-profit Organization Globally Empowering Young Refugees via Sport  
+<a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>, A Non-profit Organization Empowering Young Refugees Worldwide via Sport  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>, NYC-based Community Club (Founded by Daniel Ospina)  
 <a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>, Footballer/Photographer (and Friend)  
 
