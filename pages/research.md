@@ -6,7 +6,7 @@ title: Research
 ### Working Papers
 
 
-**Matching with Random Components: Simulations** (with <a target="_blank" rel="noopener noreferrer" href="http://www.columbia.edu/~pc2167/">Pierre-André Chiappori</a> and <a target="_blank" rel="noopener noreferrer" href="http://bsalanie.com/">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
+**Matching with Random Components: Simulations** (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
 <details> 
  <summary> Abstract </summary>
  <br>
