@@ -14,10 +14,11 @@ title: Miscellaneous
 <br>
 
 ## Other Links
-A non-exhaustive medley of inspiring individuals, projects, and articles, by category (excluding economics, at least directly):
+A non-exhaustive medley of inspiring individuals, projects, articles, and others, by category (excluding economics, at least directly):
 
 ### Art  
-<a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>, Artist/Illustrator (and Friend)
+<a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>, Artist/Illustrator (and Friend)  
+<a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">@NYT: 17 Artists Capture a Surreal New York From Their Windows</a>
 
 ### Music  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>, Musician (and Friend)
