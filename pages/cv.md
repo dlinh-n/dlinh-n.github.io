@@ -5,19 +5,28 @@ title: Curriculum Vitae
 
 <br>
   
-## Education
+### Education
 
 <br>
 
-## Research Experience
+### Research Interests
 
 <br>
 
-## Other Experience  
+### Research Experience
 
 <br>
 
-## Skills
+### Teaching Experience
 
-**Computer**:  
-**Languages**:
+<br>
+
+### Other Experience  
+
+<br>
+
+### Honors and Awards
+
+<br>
+
+### Technical Skills
