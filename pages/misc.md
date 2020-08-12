@@ -24,7 +24,7 @@ A non-exhaustive medley of inspiring individuals, projects, articles, and others
 ### Music  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).
 
-@NPR: <a href="https://www.npr.org/2011/05/02/135840639/booker-t-jones-tiny-desk-concert" target="_blank" rel="noopener noreferrer">Booker T. Jones: Tiny Desk Concert</a>.
+@NPR: <a href="https://www.npr.org/2011/05/02/135840639/booker-t-jones-tiny-desk-concert" target="_blank" rel="noopener noreferrer">Booker T. Jones: Tiny Desk Concert</a>. May 2011.
 
 
 ### Sports  
