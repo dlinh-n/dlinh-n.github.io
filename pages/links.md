@@ -11,7 +11,7 @@ title: Links
 
 <br>
 
-## Algorithms & Code
+## Code
 **IPFP**
 by 
 <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
