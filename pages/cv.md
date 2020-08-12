@@ -7,4 +7,9 @@ title: Curriculum Vitae
   
 ## Education
 
-## Languages
+<br>
+
+## Skills
+
+**Computer**:  
+**Languages**:
