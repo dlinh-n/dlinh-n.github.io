@@ -2,15 +2,16 @@
 layout: misc
 title: Miscellaneous
 ---
-  
-  
-  
+
+<br>
+
 ## Economics  
-### Co-authors
+
+### Co-authors  
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
 
-### Code
+### Code  
 **IPFP**
 by 
 <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
@@ -37,10 +38,8 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
 
 <br>
 
-## Beyond Economics
-
-A non-exhaustive medley of inspiring people and projects:
-
+## Beyond Economics  
+A non-exhaustive medley of inspiring people and projects:  
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
 <a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
@@ -50,7 +49,6 @@ A non-exhaustive medley of inspiring people and projects:
 <br>
 
 ## Credits
-
 This website is powered by 
 <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 and builds upon the
@@ -67,5 +65,4 @@ For more information about Millennial (and other excellent themes developed by P
 <br>
 
 ## Disclaimer
-
 This website is under the sole responsibility of its author.
