@@ -8,9 +8,9 @@ title: Miscellaneous
 ## Outside of Economics...
 A non-exhaustive medley of inspiring individuals and projects, by category (excluding economics, at least directly):
 
-<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).
+<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
+<a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
-<a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).
 
 <br>
 
