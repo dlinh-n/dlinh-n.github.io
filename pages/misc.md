@@ -32,7 +32,10 @@ A non-exhaustive medley of inspiring individuals, projects, and interesting arti
 ### Sports  
 <a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide via Sports.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
-<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
+<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).
+
+<a href="https://www.amazon.com/Coach-Jake-Martin-Jacobson/dp/B07MBRN6TC" target="_blank" rel="noopener noreferrer">Coach Jake</a>. Sports Documentary. November 2015. \[Amazon Prime Video\].
+
 
 <br> 
 
