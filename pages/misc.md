@@ -9,7 +9,7 @@ title: Miscellaneous
 
 ### Co-authors
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
-<a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>, Professor at Columbia University.
+<a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.
 
 <br>
 
@@ -19,7 +19,7 @@ A non-exhaustive medley of inspiring individuals, projects, and interesting arti
 ### Art  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
 
-@NYT: <a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">17 Artists Capture a Surreal New York From Their Windows</a>. April 2020 \[Amid COVID-19\].
+@NYT: <a href="https://www.nytimes.com/interactive/2020/04/16/nyregion/coronavirus-nyc-illustrators-window.html" target="_blank" rel="noopener noreferrer">17 Artists Capture a Surreal New York From Their Windows</a>. April 2020.
 
 ### Music  
 <a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).
