@@ -13,7 +13,7 @@ title: Miscellaneous
 
 <br>
 
-## Other
+## Outside of Economics...
 A non-exhaustive medley of inspiring individuals, projects, articles, and others, by category (excluding economics, at least directly):
 
 ### Art  
