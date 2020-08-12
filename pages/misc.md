@@ -10,7 +10,7 @@ title: Miscellaneous
 
 
 ## Other Links  
-A non-exhaustive medley of inspiring individuals (including friends) and interesting articles/projects, by category (excluding economics, at least directly):
+A non-exhaustive medley of inspiring individuals, projects, and articles, by category (excluding economics, at least directly):
 
 ### Art  
 <a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>, Artist/Illustrator (and Friend)
