@@ -31,7 +31,7 @@ title: Bio
 2020-&nbsp; &ensp;&ensp;&emsp;&emsp; PhD in Economics, New York University  
 2013-2015 &emsp; BSc in Applied Mathematics, Columbia University  
 2010-2013 &emsp; BA in Economics, Bard College  
-2012 &ensp;&ensp;&emsp;&emsp;&ensp; *Summer Program*, London School of Economics  
+2012 &ensp;&ensp;&emsp;&emsp;&ensp; Summer Program, London School of Economics  
 
 <div style="line-height:15%;"> <br> </div>
 
