@@ -28,8 +28,8 @@ title: Bio
 ### Education
 ---
 2020-      &emsp; &emsp; &ensp; PhD in Economics, **New York University**  
-2013-2015         &emsp; BSc in Applied Mathematics, **Columbia University**  
-2010-2013         &emsp; BA in Economics, **Bard College**    
+2013-2015                &emsp; BSc in Applied Mathematics, **Columbia University**  
+2010-2013                &emsp; BA in Economics, **Bard College**    
 
 <div style="line-height:15%;"> <br> </div>
 
