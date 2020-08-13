@@ -5,7 +5,7 @@ title: Bio
 
 *Last updated: August 15, 2020*
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:100%;"> <br> </div>
 
 **Dam Linh Nguyen**  
 
