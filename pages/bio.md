@@ -28,9 +28,8 @@ title: Bio/Resume
 
 
 ### Education
-**Columbia University**,    B.Sc. in Applied Mathematics
-
-<br>
+**Columbia University**, School of Engineering and Applied Science
+    B.Sc. in Applied Mathematics
 
 ### Research Interests
 Matching, Industrial Organization, Applied Microeconomics
@@ -49,5 +48,5 @@ Matching, Industrial Organization, Applied Microeconomics
 
 
 ### Skills
-**Language**: Native Bilingual: Vietnamese, Polish; Fluent: English
+**Language**: Native Bilingual: Vietnamese, Polish; Fluent: English  
 **Computer**: Advanced: SAS, R, Stata, MATLAB, Microsoft Office; Intermediate: LaTeX; Basic: Python, Mathematica
