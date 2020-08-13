@@ -3,7 +3,7 @@ layout: misc
 title: Research
 ---
 
-<br> 
+<div style="line-height:125%;"> <br> </div>
 
 ## Working Papers
 
