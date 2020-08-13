@@ -28,9 +28,9 @@ title: Bio
 
 ### Education
 ---
-2020-&nbsp; &ensp;&ensp;&emsp;&emsp; *PhD in Economics*, New York University  
-2013-2015 &emsp; *BSc in Applied Mathematics*, Columbia University  
-2010-2013 &emsp; *BA in Economics*, Bard College  
+2020-&nbsp; &ensp;&ensp;&emsp;&emsp; PhD in Economics, New York University  
+2013-2015 &emsp; BSc in Applied Mathematics, Columbia University  
+2010-2013 &emsp; BA in Economics, Bard College  
 2012 &ensp;&ensp;&emsp;&emsp;&ensp; *Summer Program*, London School of Economics  
 
 <div style="line-height:15%;"> <br> </div>
@@ -45,20 +45,20 @@ Matching, Industrial Organization, Applied Microeconomics
 
 ### Research Experience
 ---
-2020-&nbsp; &ensp;&ensp;&emsp;&emsp; *Co-author with Pierre-André Chiappori and Bernard Salanié*, Columbia University  
-2014-2015 &emsp; *Research Assistant to Pierre-André Chiappori and Bernard Salanié*, Columbia University  
-2015 &ensp;&ensp;&emsp;&emsp;&ensp; *Research Assistant to Wojciech Kopczuk*, Columbia University  
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; *Research Assistant to Olivier Giovannoni*, Bard College/Levy Economics Institute  
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; *Research Assistant to Sanjaya DeSilva*, Bard College/Levy Economics Institute  
+2020-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
+2014-2015 &emsp; Research Assistant to Pierre-André Chiappori and Bernard Salanié, Columbia University  
+2015 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Wojciech Kopczuk, Columbia University  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Olivier Giovannoni, Bard College/Levy Economics Institute  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Bard College/Levy Economics Institute  
 <div style="line-height:15%;"> <br> </div>
 
 
 ### Other Experience
 ---
 2015-2020 &emsp; *Senior Analyst*, NERA Economic Consulting  
-2014 &ensp;&ensp;&emsp;&emsp;&ensp; *Part-time Intern*, TAU Investment Management  
-2012 &ensp;&ensp;&emsp;&emsp;&ensp; *Economics Assistant in Course Development*, Bard College  
-2011 &ensp;&ensp;&emsp;&emsp;&ensp; *Mathematics Tutor*, Bard College  
+2014 &ensp;&ensp;&emsp;&emsp;&ensp; Part-time Intern, TAU Investment Management  
+2012 &ensp;&ensp;&emsp;&emsp;&ensp; Economics Assistant in Course Development, Bard College  
+2011 &ensp;&ensp;&emsp;&emsp;&ensp; Mathematics Tutor, Bard College  
 
 <div style="line-height:15%;"> <br> </div>
 
@@ -71,13 +71,13 @@ Matching, Industrial Organization, Applied Microeconomics
 
 ### Awards, Honors, and Scholarships
 ---
-2020-2025 &emsp; *Henry M. MacCracken Fellowship*, New York University  
-2015 &emsp;&emsp;&emsp;&ensp; *Magna Cum Laude*, Columbia University  
-2013-2015 &emsp; *Dean’s List*, Columbia University  
-2013 &emsp;&emsp;&emsp;&ensp; *Amicus Foundation Scholarship*, Bard College  
-2013 &emsp;&emsp;&emsp;&ensp; *BSRI Research Stipend*, Bard College  
-2010-2013 &emsp; *Levy Economics Institute Scholarship*, Bard College  
-2010-2013 &emsp; *NCAA Men’s Soccer All-Academic Team*, Bard College    
+2020-2025 &emsp; Henry M. MacCracken Fellowship, New York University  
+2015 &emsp;&emsp;&emsp;&ensp; Magna Cum Laude, Columbia University  
+2013-2015 &emsp; Dean’s List, Columbia University  
+2013 &emsp;&emsp;&emsp;&ensp; Amicus Foundation Scholarship, Bard College  
+2013 &emsp;&emsp;&emsp;&ensp; BSRI Research Stipend, Bard College  
+2010-2013 &emsp; Levy Economics Institute Scholarship, Bard College  
+2010-2013 &emsp; NCAA Men’s Soccer All-Academic Team, Bard College    
 
 <div style="line-height:15%;"> <br> </div>
 
