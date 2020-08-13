@@ -3,7 +3,7 @@
 [dlinh-n.github.io](https://github.com/dlinh-n/dlinh-n.github.io) is a repository for maintaining Dam Linh Nguyen's personal website.
 It is powered by
 <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
-and builds upon the
+and builds on the
 <a href="https://lenpaul.github.io/Millennial/" target="_blank" rel="noopener noreferrer">Millennial</a>
 Jekyll theme created by 
 <a href="https://www.lenpaul.com/" target="_blank" rel="noopener noreferrer">Paul Le</a>.
