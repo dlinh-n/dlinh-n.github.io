@@ -10,7 +10,7 @@ title: Bio/Resume
 
     <br>
 
-    Dam Linh Nguyen is a Ph.D. student at the Department of Economics at New York University. Linh’s research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, and agrochemicals. Linh earned a B.Sc. in Applied Mathematics, magna cum laude, from Columbia University and a B.A. in Economics as a Levy Institute Scholar from Bard College.
+    Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
 
@@ -19,17 +19,16 @@ title: Bio/Resume
 
     <br>
 
-    Dam Linh Nguyen is a Ph.D. student in Economics at New York University. Linh's research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA. Linh earned a B.Sc. in Applied Mathematics from Columbia University and a B.A. in Economics from Bard College.
+    Dam Linh Nguyen is a PhD student in Economics at New York University. Linh's research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA. Linh earned a BSc in Applied Mathematics from Columbia University and a BA in Economics from Bard College.
 </details>
 
 <br>
 
 ## Resume
 
-
 ### Education
-**Columbia University**, School of Engineering and Applied Science
-    B.Sc. in Applied Mathematics
+**Columbia University**, BSc in Applied Mathematics, 2013-2015    
+**Bard College**, BA in Economics, 2010-2013
 
 ### Research Interests
 Matching, Industrial Organization, Applied Microeconomics
