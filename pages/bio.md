@@ -5,7 +5,7 @@ title: Bio/Resume
 
 *Last updated: August 15, 2020*
 
-### Bio
+## Bio
 
 <details>
     <summary> Bio </summary>
@@ -23,7 +23,8 @@ title: Bio/Resume
     Dam Linh Nguyen is a Ph.D. student in Economics at New York University. Linh's research interests include matching theory, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA. Linh earned a B.Sc. in Applied Mathematics from Columbia University and a B.A. in Economics from Bard College.
 </details>
 
+<br>
 
-### Resume
+## Resume
 
 ##### Education
