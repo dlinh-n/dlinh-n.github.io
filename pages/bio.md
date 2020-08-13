@@ -8,7 +8,7 @@ title: Bio/Resume
 ### Bio
 
 <details>
-    <summary> Bio <summary>
+    <summary> Bio </summary>
 
     <br>
 
@@ -16,7 +16,7 @@ title: Bio/Resume
 </details>
 
 <details>
-    <summary> Short Bio <summary>
+    <summary> Short Bio </summary>
 
     <br>
 
@@ -25,3 +25,5 @@ title: Bio/Resume
 
 
 ### Resume
+
+##### Education
