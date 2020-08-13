@@ -5,6 +5,17 @@ title: Bio
 
 *Last updated: August 15, 2020*
 
+<div style="line-height:125%;"> <br> </div>
+
+**Dam Linh Nguyen**  
+
+Department of Economics  
+New York University  
+<a href="mailto:n.linh@nyu.edu">n.linh \[at\] nyu.edu</a>  
+<a href="https://dlinh-n.github.io/">https://dlinh-n.github.io/</a>  
+
+<div style="line-height:100%;"> <br> </div>
+
 <details>
     <summary> Bio </summary>
 
@@ -13,7 +24,7 @@ title: Bio
     Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:75%;"> <br> </div>
 
 <details>
     <summary> Short Bio </summary>
@@ -23,7 +34,18 @@ title: Bio
     Dam Linh Nguyen is a PhD student in Economics at New York University. Linh's research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA. Linh earned a BSc in Applied Mathematics from Columbia University and a BA in Economics from Bard College.
 </details>
 
-<div style="line-height:150%;"> <br> </div>
+<div style="line-height:75%;"> <br> </div>
+
+<details>
+    <summary> Resume </summary>
+
+    <br>
+
+    [PDF]
+</details>
+
+
+<div style="line-height:100%;"> <br> </div>
 
 
 ### Education
