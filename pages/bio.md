@@ -26,16 +26,23 @@ title: Bio/Resume
 
 ## Resume
 
+<br>
+
 ### Education
+---
 **Columbia University**, BSc in Applied Mathematics, 2013-2015    
 **Bard College**, BA in Economics, 2010-2013
 
+<br>
+
 ### Research Interests
+---
 Matching, Industrial Organization, Applied Microeconomics
 
+<br>
 
 ### Research Experience
-
+---
 
 ### Other Experience
 
