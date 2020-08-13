@@ -30,7 +30,7 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
   <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a> (Columbia)
   and
   <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
-  developed the Iterative Proportional Fitting Procedure (IPFP) algorithm to solve for equilibrium in separable matching models, including the original
+  developed the Iterative Proportional Fitting Procedure (IPFP) algorithm to solve for equilibrium in separable matching models, including in the original
   <a href="https://www.jstor.org/stable/10.1086/498585?seq=1" target="_blank" rel="noopener noreferrer">Choo and Siow (2006)</a>
   specification and its variants. For precise discussion, see the latest version of their paper:
   <a href="http://bsalanie.com/wp-content/uploads/2020/05/Cupids-2020-05-16_paper.pdf" target="_blank" rel="noopener noreferrer">"Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models"</a>.
