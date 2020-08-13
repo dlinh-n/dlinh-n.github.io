@@ -3,7 +3,7 @@ layout: misc
 title: Bio/Resume
 ---
 
-*August 15, 2020*
+*Last updated: August 15, 2020*
 
 ### Bio
 
