@@ -49,7 +49,7 @@ A non-exhaustive medley of inspiring people and projects:
 
 <br>
 
-## Credits
+## About This Site
 This website is powered by 
 <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 and builds on the
@@ -62,8 +62,4 @@ and modified under the
 <a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>. 
 For more information about Millennial (and other excellent themes developed by Paul), visit: 
 <a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
-
-<br>
-
-## Disclaimer
 This website is under the sole responsibility of its author.
