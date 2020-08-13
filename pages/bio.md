@@ -85,4 +85,4 @@ Matching, Industrial Organization, Applied Microeconomics
 ### Skills
 ---
 **Language**: Native Bilingual: Vietnamese, Polish; Fluent: English  
-**Computer**: Advanced: SAS, R, Stata, MATLAB, Microsoft Office; Intermediate: LaTeX; Basic: Python, Mathematica
+**Computer**: Advanced: SAS, R, Stata, MATLAB, Microsoft Office; Intermediate: LaTeX; Basic: Python
