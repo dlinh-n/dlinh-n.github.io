@@ -48,6 +48,8 @@ A non-exhaustive medley of inspiring people and projects:
 <a href="https://legia.com/en" target="_blank" rel="noopener noreferrer">Legia Warszawa</a>. My hometown football club and the pride of Warsaw.  
 <a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based community club (founded by Daniel Ospina).  
 <a href="https://www.nytimes.com/column/metropolitan-diary" target="_blank" rel="noopener noreferrer">NYT Metropolitan Diary</a>. Stories from New Yorkers about NYC.  
+<a href="https://plumvillage.org/about/thich-nhat-hanh/" target="_blank" rel="noopener noreferrer">Thich Nhat Hanh</a>. Vietnamese Zen Master.  
+<a href="https://wyntonmarsalis.org/" target="_blank" rel="noopener noreferrer">Wynton Marsalis</a>. Musician, composer, educator.  
 
 
 <div style="line-height:150%;"> <br> </div>
