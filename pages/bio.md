@@ -3,7 +3,7 @@ layout: misc
 title: Bio
 ---
 
-*Last modified: August 13, 2020*
+*Last updated: August 13, 2020*
 
 <div style="line-height:100%;"> <br> </div>
 
