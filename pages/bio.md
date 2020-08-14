@@ -36,7 +36,7 @@ New York University
 
 <div style="line-height:75%;"> <br> </div>
 
-### Resume [PDF](https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf)
+**Resume** \[[PDF](https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf)\]
 
 
 <div style="line-height:100%;"> <br> </div>
