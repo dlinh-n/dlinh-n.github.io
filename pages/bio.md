@@ -88,7 +88,7 @@ Matching, Industrial Organization, Applied Microeconomics
 ### Awards, Honors, and Scholarships
 ---
 2020-2025 &emsp; Henry M. MacCracken Fellowship, New York University  
-2020-2021 &emsp; NYU Economics Summer Stipend, New York University
+2020-2021 &emsp; NYU Economics Summer Stipend, New York University  
 2015 &emsp;&emsp;&emsp;&ensp; Magna Cum Laude, Columbia University  
 2013-2015 &emsp; Dean’s List, Columbia University  
 2013 &emsp;&emsp;&emsp;&ensp; Amicus Foundation Scholarship, Bard College  
