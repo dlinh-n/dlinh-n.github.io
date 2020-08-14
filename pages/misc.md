@@ -3,7 +3,7 @@ layout: misc
 title: Miscellaneous
 ---
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:150%;"> <br> </div>
 
 ## Economics  
 
@@ -36,7 +36,7 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
   <a href="http://bsalanie.com/wp-content/uploads/2020/05/Cupids-2020-05-16_paper.pdf" target="_blank" rel="noopener noreferrer">"Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models"</a>.
 </details>
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:150%;"> <br> </div>
 
 ## Beyond Economics...  
 A non-exhaustive medley of inspiring people and projects:  
@@ -50,7 +50,7 @@ A non-exhaustive medley of inspiring people and projects:
 <a href="https://www.nytimes.com/column/metropolitan-diary" target="_blank" rel="noopener noreferrer">NYT Metropolitan Diary</a>. Stories from New Yorkers about NYC.  
 
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:150%;"> <br> </div>
 
 ## About This Site
 This website is powered by 
