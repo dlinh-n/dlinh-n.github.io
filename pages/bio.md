@@ -3,7 +3,7 @@ layout: misc
 title: Bio
 ---
 
-*Last updated: August 15, 2020*
+*Last updated: August 13, 2020*
 
 <div style="line-height:100%;"> <br> </div>
 
@@ -70,14 +70,14 @@ Matching, Industrial Organization, Applied Microeconomics
 2020-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 2014-2015 &emsp; Research Assistant to Pierre-André Chiappori and Bernard Salanié, Columbia University  
 2015 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Wojciech Kopczuk, Columbia University  
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Olivier Giovannoni, Bard College/Levy Economics Institute  
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Bard College/Levy Economics Institute  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Olivier Giovannoni, Levy Economics Institute/Bard College  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Levy Economics Institute/Bard College  
 <div style="line-height:15%;"> <br> </div>
 
 
 ### Other Experience
 ---
-2015-2020 &emsp; *Senior Analyst*, NERA Economic Consulting  
+2015-2020 &emsp; Senior Analyst, NERA Economic Consulting  
 2014 &ensp;&ensp;&emsp;&emsp;&ensp; Part-time Intern, TAU Investment Management  
 2012 &ensp;&ensp;&emsp;&emsp;&ensp; Economics Assistant in Course Development, Bard College  
 2011 &ensp;&ensp;&emsp;&emsp;&ensp; Mathematics Tutor, Bard College  
