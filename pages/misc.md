@@ -41,11 +41,13 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
 ## Beyond Economics...  
 A non-exhaustive medley of inspiring people and projects:  
 
-<a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit Organization Empowering Young Refugees Worldwide.  
-<a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based Community Club (Founded by Daniel Ospina).  
-<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer/Photographer (and Friend).  
-<a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist/Musician (and Friend).  
-<a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist/Illustrator (and Friend).
+<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer, photographer, and friend.  
+<a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist, musician, and friend.  
+<a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist, illustrator, and friend.  
+<a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit organization empowering young refugees worldwide.  
+<a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based community club (founded by Daniel Ospina).  
+<a href="https://www.nytimes.com/column/metropolitan-diary" target="_blank" rel="noopener noreferrer">NYT Metropolitan Diary</a>. Stories from and about NYC.  
+
 
 <div style="line-height:125%;"> <br> </div>
 
