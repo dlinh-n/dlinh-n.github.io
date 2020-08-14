@@ -8,9 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'home', folder: '', file: '/index.html'}
-- {name: 'bio', folder: '/pages', file: '/bio.html'}
-- {name: 'research', folder: '/pages', file: '/research.html'}
-- {name: 'misc', folder: '/pages', file: '/misc.html'}
+- {name: 'bio', folder: '/p', file: '/bio.html'}
+- {name: 'research', folder: '/p', file: '/research.html'}
+- {name: 'misc', folder: '/p', file: '/misc.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
