@@ -36,13 +36,7 @@ New York University
 
 <div style="line-height:75%;"> <br> </div>
 
-<details>
-    <summary> Resume </summary>
-
-    <br>
-
-    [PDF]
-</details>
+**Resume** [PDF]
 
 
 <div style="line-height:100%;"> <br> </div>
