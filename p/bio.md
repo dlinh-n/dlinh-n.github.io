@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Bio
+title: bio
 ---
 
 *Last updated: August 15, 2020*

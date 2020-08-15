@@ -1,6 +1,6 @@
 ---
 layout: other
-title: Miscellaneous
+title: Links
 ---
 
 <div style="line-height:75%;"> <br> </div>
