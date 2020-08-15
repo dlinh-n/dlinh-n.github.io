@@ -11,4 +11,4 @@ I am a first year graduate student in economics at
 
 My research interests include matching, industrial organization, and applied microeconomics.
 
-<div style="line-height:150%;"> <br> </div>
+<div style="line-height:175%;"> <br> </div>
