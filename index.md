@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: home
 ---
 
 <img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpeg" alt = "Dam Linh Nguyen"

@@ -1,9 +1,9 @@
 ---
 layout: other
-title: Research
+title: research
 ---
 
-<div style="line-height:100%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 ### Working Papers
 
