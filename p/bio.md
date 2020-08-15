@@ -36,9 +36,9 @@ New York University
 ---
 2020-&nbsp; &ensp;&ensp;&emsp;&emsp; PhD in Economics, New York University  
 
-2015 &ensp;&ensp;&emsp;&emsp;&ensp; BSc in Applied Mathematics, Columbia University  
+2013-2015 &emsp; BSc in Applied Mathematics, Columbia University  
 
-2015 &ensp;&ensp;&emsp;&emsp;&ensp; BA in Economics, Bard College  
+2010-2013 &emsp; BA in Economics, Bard College  
 
 2012 &ensp;&ensp;&emsp;&emsp;&ensp; Summer Program, London School of Economics  
 
