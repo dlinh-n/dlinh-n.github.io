@@ -8,7 +8,7 @@ title: links
 
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
 
-<div style="line-height:25%;"> <br> </div>
+<div style="line-height:15%;"> <br> </div>
 
 ## Code  
 **IPFP**
@@ -35,7 +35,7 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
   <a href="http://bsalanie.com/wp-content/uploads/2020/05/Cupids-2020-05-16_paper.pdf" target="_blank" rel="noopener noreferrer">"Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models"</a>.
 </details>
 
-<div style="line-height:125%;"> <br> </div>
+<div style="line-height:115%;"> <br> </div>
 
 
 ### About This Site
