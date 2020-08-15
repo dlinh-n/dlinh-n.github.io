@@ -8,7 +8,7 @@ google-ID: 'UA-175491198-1'
 
 menu:
 - {name: 'home', folder: '', file: '/index.html'}
-- {name: 'bio', folder: '/p', file: '/bio.html'}
+- {name: 'bio/cv', folder: '/p', file: '/bio.html'}
 - {name: 'research', folder: '/p', file: '/research.html'}
 - {name: 'misc', folder: '/p', file: '/misc.html'}
 
