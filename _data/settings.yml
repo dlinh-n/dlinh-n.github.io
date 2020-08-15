@@ -10,7 +10,7 @@ menu:
 - {name: 'Home', folder: '', file: '/index.html'}
 - {name: 'Bio', folder: '/p', file: '/bio.html'}
 - {name: 'Research', folder: '/p', file: '/research.html'}
-- {name: 'Misc', folder: '/p', file: '/misc.html'}
+- {name: 'Links', folder: '/p', file: '/links.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
