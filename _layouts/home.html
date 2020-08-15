@@ -3,10 +3,16 @@ layout: default
 title: Home
 ---
 
-<div class="page-title">
+<div class="page-content">
 
-<article>
-  {{ content }}
-</article>
+  {% if page.image %}
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}" style="float:right">
+  </div>
+  {% endif %}
+
+  <article>
+    {{ content }}
+  </article>
 
 </div>

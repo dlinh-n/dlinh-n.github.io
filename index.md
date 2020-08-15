@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+image: dam_linh_nguyen.jpeg
 ---
 
 I am a first year graduate student in economics at
