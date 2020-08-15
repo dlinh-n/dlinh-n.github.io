@@ -6,7 +6,7 @@
     {% for item in site.data.settings.menu %}
 
       {% if page.title == item.name %}
-      <a href="{{ site.github.url }}{{ item.folder }}{{ item.file }}" class="menu-link"><b>{{ item.name }}</b></a>
+      <a href="{{ site.github.url }}{{ item.folder }}{{ item.file }}" class="menu-link"><font color = "rgb(80,80,80)">{{ item.name }}</font></a>
       {% else %}
         <a href="{{ site.github.url }}{{ item.folder }}{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endif %}
