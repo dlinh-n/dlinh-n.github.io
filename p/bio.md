@@ -5,7 +5,7 @@ title: Bio
 
 *Last updated: August 13, 2020*
 
-<div style="line-height:100%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 **Dam Linh Nguyen**  
 
@@ -14,7 +14,7 @@ New York University
 <a href="mailto:n.linh@nyu.edu">n.linh \[at\] nyu.edu</a>  
 <a href="https://dlinh-n.github.io/">https://dlinh-n.github.io/</a>  
 
-<div style="line-height:100%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 <details>
     <summary> Bio </summary>
@@ -24,7 +24,7 @@ New York University
     Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
-<div style="line-height:75%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 <details>
     <summary> Short Bio </summary>
@@ -34,12 +34,12 @@ New York University
     Dam Linh Nguyen is a PhD student in Economics at New York University. Linh's research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA. Linh earned a BSc in Applied Mathematics from Columbia University and a BA in Economics from Bard College.
 </details>
 
-<div style="line-height:75%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 **Resume** \[[PDF](https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf)\]
 
 
-<div style="line-height:100%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 
 ### Education
@@ -52,14 +52,14 @@ New York University
 
 2012 &ensp;&ensp;&emsp;&emsp;&ensp; Summer Program, London School of Economics  
 
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Research Interests
 ---
 Matching, Industrial Organization, Applied Microeconomics
 
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Research Experience
@@ -74,7 +74,7 @@ Matching, Industrial Organization, Applied Microeconomics
 
 2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Levy Economics Institute/Bard College  
 
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Other Experience
@@ -87,13 +87,13 @@ Matching, Industrial Organization, Applied Microeconomics
 
 2011 &ensp;&ensp;&emsp;&emsp;&ensp; Mathematics Tutor, Bard College  
 
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Work in Progress
 ---
 *"Matching with Random Components: Simulations"* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Awards, Honors, and Scholarships
@@ -114,7 +114,7 @@ Matching, Industrial Organization, Applied Microeconomics
 
 2010-2013 &emsp; NCAA Men’s Soccer All-Academic Team, Bard College    
 
-<div style="line-height:15%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Skills
