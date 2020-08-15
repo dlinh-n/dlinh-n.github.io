@@ -5,13 +5,13 @@ title: Miscellaneous
 
 <div style="line-height:150%;"> <br> </div>
 
-## Economics  
-
-### Co-authors  
+## Co-authors  
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
 
-### Code  
+<div style="line-height:75%;"> <br> </div>
+
+## Code  
 **IPFP**
 by 
 <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
@@ -38,21 +38,6 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
 
 <div style="line-height:150%;"> <br> </div>
 
-## Beyond Economics...  
-A non-exhaustive medley of inspiring people and projects:  
-
-<a href="https://www.dannyospina.com/" target="_blank" rel="noopener noreferrer">Daniel Ospina</a>. Footballer, photographer, and friend.  
-<a href="http://leonardopinedag.com/index.php" target="_blank" rel="noopener noreferrer">Leonardo Pineda</a>. Violinist, musician, and friend.  
-<a href="https://www.jmsegal.com/" target="_blank" rel="noopener noreferrer">Jordan Segal</a>. Artist, illustrator, and friend.  
-<a href="https://klabu.org/" target="_blank" rel="noopener noreferrer">Klabu</a>. Non-profit organization empowering young refugees worldwide.  
-<a href="https://legia.com/en" target="_blank" rel="noopener noreferrer">Legia Warszawa</a>. My hometown football club and the pride of Warsaw.  
-<a href="http://mnhttnfc.com/" target="_blank" rel="noopener noreferrer">Manhattan fc</a>. NYC-based community club (founded by Daniel Ospina).  
-<a href="https://www.nytimes.com/column/metropolitan-diary" target="_blank" rel="noopener noreferrer">NYT Metropolitan Diary</a>. Stories from New Yorkers about NYC.  
-<a href="https://plumvillage.org/about/thich-nhat-hanh/" target="_blank" rel="noopener noreferrer">Thich Nhat Hanh</a>. Vietnamese Zen Master.  
-<a href="https://wyntonmarsalis.org/" target="_blank" rel="noopener noreferrer">Wynton Marsalis</a>. Musician, composer, educator.  
-
-
-<div style="line-height:150%;"> <br> </div>
 
 ## About This Site
 This website is powered by 
