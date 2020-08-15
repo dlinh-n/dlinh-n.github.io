@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: other
 title: Research
 ---
 
