@@ -3,13 +3,13 @@ layout: misc
 title: Miscellaneous
 ---
 
-<div style="line-height:150%;"> <br> </div>
+<div style="line-height:100%;"> <br> </div>
 
 ## Co-authors  
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
 
-<div style="line-height:75%;"> <br> </div>
+<div style="line-height:50%;"> <br> </div>
 
 ## Code  
 **IPFP**
