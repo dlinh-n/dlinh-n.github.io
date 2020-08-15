@@ -6,10 +6,10 @@ title: Home
 <div class="home-content">
 
   <article>
+    {{ content }}
     {% if page.image %}
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    {% endif %}    
-    {{ content }}
+    {% endif %}
   </article>
 
 </div>
