@@ -5,14 +5,14 @@ title: Miscellaneous
 
 <div style="line-height:100%;"> <br> </div>
 
-## Co-authors  
+### Co-authors  
 <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
 
 <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
 
 <div style="line-height:50%;"> <br> </div>
 
-## Code  
+### Code  
 **IPFP**
 by 
 <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
@@ -40,7 +40,7 @@ in R, Python, and via a Streamlit interactive app for solving equilibrium soluti
 <div style="line-height:150%;"> <br> </div>
 
 
-## About This Site
+### About This Site
 This website is powered by 
 <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 and builds on the
