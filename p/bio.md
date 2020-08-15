@@ -54,7 +54,7 @@ Matching, Industrial Organization, Applied Microeconomics
 
 ### Research Experience
 ---
-2020-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
+2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
 2014-2015 &emsp; Research Assistant to Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
