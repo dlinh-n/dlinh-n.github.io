@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 image: dam_linh_nguyen.jpeg
 ---
 
