@@ -4,7 +4,7 @@
   </h4>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}{{ item.folder }}{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      <a href="{{ site.github.url }}{{ item.folder }}{{ item.file }}" class="menu-link"><b>{{ item.name }}</b></a>
     {% endfor %}
 
     {% for item in site.data.settings.social %}
