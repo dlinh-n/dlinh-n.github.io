@@ -10,6 +10,4 @@ Jekyll theme created by
 It was forked on August 11, 2020 from the
 <a href="https://github.com/LeNPaul/Millennial" target="_blank" rel="noopener noreferrer">Millennial GitHub repository</a>
 and modified under the 
-<a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>. 
-For more information about Millennial (and other excellent themes developed by Paul), visit: 
-<a href="https://github.com/LeNPaul" target="_blank" rel="noopener noreferrer">https://github.com/LeNPaul</a>.
+<a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>.
