@@ -47,7 +47,7 @@ New York University
 
 ### Research Interests
 ---
-Matching, Industrial Organization, Applied Microeconomics
+Empirical Industrial Organization, Applied Microeconomics, Matching
 
 <div style="line-height:25%;"> <br> </div>
 
