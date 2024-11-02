@@ -9,7 +9,7 @@ title: links
 
 <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor of Economics, Columbia University.
 
-<a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>. Assistant Professor of Economics, New York University (NYU).
+<a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>. Assistant Professor of Economics, New York University.
 
 <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>. Assistant Professor of Finance, University of Chicago, Booth School of Business.
 
@@ -17,9 +17,9 @@ title: links
 
 <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>. Assistant Professor of Economics, Yale University.
 
-<a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a>. PhD Student in Economics, Massachusetts Institute of Technology (MIT).
+<a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a>. PhD Student in Economics, Massachusetts Institute of Technology.
 
-<a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>. PhD Student in Economics, Massachusetts Institute of Technology (MIT).
+<a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>. PhD Student in Economics, Massachusetts Institute of Technology.
 
 <div style="line-height:100%;"> <br> </div>
 
