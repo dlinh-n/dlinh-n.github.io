@@ -4,39 +4,9 @@ title: links
 ---
 
 ## Co-authors  
-<a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor at Columbia University.  
+<a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor of Economics, Columbia University.
 
-<a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor at Columbia University.  
-
-<div style="line-height:15%;"> <br> </div>
-
-## Code  
-**IPFP**
-by 
-<a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
-and
-<a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a> (Columbia) ---
-**<a href="http://bsalanie.com/code-for-separable-matching-models/" target="_blank" rel="noopener noreferrer">an algorithm and code</a>** 
-in R, Python, and via a Streamlit interactive app for solving equilibrium solutions in separable matching models à la
-<a href="https://www.jstor.org/stable/10.1086/498585?seq=1" target="_blank" rel="noopener noreferrer">Choo and Siow (2006)</a>.
-
-<details>
-  <summary> More Info </summary>
-  
-  <br>
-  
-  My co-author
-  <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a> (Columbia)
-  and
-  <a href="http://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a> (NYU)
-  developed the Iterative Proportional Fitting Procedure (IPFP) algorithm to solve for equilibrium in separable matching models, including in the original
-  <a href="https://www.jstor.org/stable/10.1086/498585?seq=1" target="_blank" rel="noopener noreferrer">Choo and Siow (2006)</a>
-  specification and its variants. For precise discussion, see the latest version of their paper:
-  <a href="http://bsalanie.com/wp-content/uploads/2020/05/Cupids-2020-05-16_paper.pdf" target="_blank" rel="noopener noreferrer">"Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models"</a>.
-</details>
-
-<div style="line-height:115%;"> <br> </div>
-
+<a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor of Economics, Columbia University.
 
 ### About This Site
 This website is powered by 
