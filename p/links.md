@@ -33,4 +33,4 @@ Jekyll theme created by
 It was forked on August 11, 2020 from the
 <a href="https://github.com/LeNPaul/Millennial" target="_blank" rel="noopener noreferrer">Millennial repository</a>
 and modified under the 
-<a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>. This website is under the sole responsibility of its author.
+<a href="https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md">MIT License</a>.
