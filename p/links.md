@@ -3,7 +3,7 @@ layout: other
 title: links
 ---
 
-## Co-authors  
+### Co-authors  
 
 <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor of Economics, Columbia University.
 
@@ -21,7 +21,7 @@ title: links
 
 <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>. PhD Student in Economics, Massachusetts Institute of Technology (MIT).
 
-
+<div style="line-height:100%;"> <br> </div>
 
 ### About This Site
 This website is powered by 
