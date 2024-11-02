@@ -5,7 +5,7 @@ title: research
 
 ## Working Papers
 
-**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). October 2024. [<a href="https://www.dropbox.com/scl/fi/ttfuwljadd6iwbkmwf45g/Nonpayment_and_Eviction.pdf?rlkey=v872x6cavh8cjzybzj6pg3z2f&e=1&st=6eumcbqm&dl=0" target="_blank" rel="noopener noreferrer">PDF</a>]
+**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). October 2024. [<a href="https://www.dropbox.com/scl/fi/ttfuwljadd6iwbkmwf45g/Nonpayment_and_Eviction.pdf?rlkey=v872x6cavh8cjzybzj6pg3z2f&e=1&st=6eumcbqm&dl=0" target="_blank" rel="noopener noreferrer">PDF</a>]
 <details> 
  <summary> Abstract </summary>
  <br>
@@ -31,3 +31,10 @@ tenants who would resume paying.
  <br>
  Several recent papers have analyzed matching markets under the dual assumption of perfectly transferable utility and a separable joint surplus. Separability rules out any contribution to the joint surplus of a match of interactions between characteristics of partners that are unobserved by the analyst. Since it may be unrealistic in some settings, we explore the consequences of mistakenly imposing it. We find that the biases that result from this misspecification grow slowly with the magnitude of the contribution of the interaction terms. In particular, the estimated complementarities in the Choo and Siow (2006) model are remarkably robust to the inclusion of interaction terms.
 </details>
+
+
+## Work in Progress
+
+**Data Interoperability and Competition: Evidence from the U.S. Residential Mortgage Market**
+
+**Out with the Old, In with the New: The Importance of Secondary Markets for Electric Vehicle Subsidy Design** (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>)

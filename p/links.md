@@ -4,9 +4,24 @@ title: links
 ---
 
 ## Co-authors  
+
 <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a>. Professor of Economics, Columbia University.
 
 <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>. Professor of Economics, Columbia University.
+
+<a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>. Assistant Professor of Economics, New York University (NYU).
+
+<a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>. Assistant Professor of Finance, University of Chicago, Booth School of Business.
+
+<a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>. Assistant Professor of Economics, Yale University.
+
+<a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>. Assistant Professor of Economics, Yale University.
+
+<a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a>. PhD Student in Economics, Massachusetts Institute of Technology (MIT).
+
+<a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>. PhD Student in Economics, Massachusetts Institute of Technology (MIT).
+
+
 
 ### About This Site
 This website is powered by 
