@@ -11,9 +11,9 @@ I am a fifth year graduate student in economics at
 
 My research blends micro-econometric and industrial organization methods to study a wide range of empirical topics; including:
 <ul>
-  <li>data interoperability;</li>
-  <li>technology adoption;</li>
-  <li>eviction policy;</li>
+  <li>data interoperability</li>
+  <li>technology adoption</li>
+  <li>eviction policy</li>
   <li>matching; and</li>
   <li>sampling variety in hip hop.</li>
 </ul>
