@@ -9,6 +9,6 @@ style="float:right; padding: 0px 0px 0px 4px">
 I am a fifth year graduate student in economics at
 <a href="https://as.nyu.edu/content/nyu-as/as/departments/econ.html" target="_blank" rel="noopener noreferrer">NYU</a>.  
 
-My research blends micro-econometric and industrial organization methods to study a wide range of empirical topics; including: data interoperability, technology adoption, eviction policy, matching, and sampling variety in hip hop.
+My research blends micro-econometric and industrial organization methods to study a wide range of empirical topics; including: data interoperability, technology adoption, eviction policy, and matching.
 
 <div style="line-height:175%;"> <br> </div>
