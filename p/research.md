@@ -38,4 +38,6 @@ tenants who would resume paying.
 
 **Data Interoperability and Competition: Evidence from the U.S. Residential Mortgage Market**
 
+**Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop**
+
 **Out with the Old, In with the New: The Importance of Secondary Markets for Electric Vehicle Subsidy Design** (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>)
