@@ -5,7 +5,7 @@ title: research
 
 ### Working Papers
 
-**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). October 2024. [<a href="https://www.dropbox.com/scl/fi/ttfuwljadd6iwbkmwf45g/Nonpayment_and_Eviction.pdf?rlkey=v872x6cavh8cjzybzj6pg3z2f&e=1&st=6eumcbqm&dl=0" target="_blank" rel="noopener noreferrer">PDF</a>]
+**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). October 2024. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]
 <details> 
  <summary> Abstract </summary>
  <br>
