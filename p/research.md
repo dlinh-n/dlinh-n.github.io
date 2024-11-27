@@ -36,7 +36,7 @@ tenants who would resume paying.
 
 ### Work in Progress
 
-**Data Interoperability and Competition: Evidence from the U.S. Residential Mortgage Market**
+**The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market**
 
 **Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop**
 
