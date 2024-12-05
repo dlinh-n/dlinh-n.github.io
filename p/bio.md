@@ -23,7 +23,7 @@ New York University
 
     Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied microeconomics, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
     
-    <div style="line-height:10%;"> <br> </div>
+    <br> <br>
 
     Previously, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
@@ -61,7 +61,7 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
 
 2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, <br>
-     &nbsp; &ensp;&ensp;&emsp;&emsp; and John Eric Humphries, NYU/UChicago/Yale
+&emsp;&emsp;&emsp;&ensp; and John Eric Humphries, NYU/UChicago/Yale
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
@@ -111,7 +111,7 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 
 ### Awards, Honors, and Scholarships
 ---
-2022 &emsp; CV Starr Center Research Funding, New York University  
+2022 &emsp;&emsp;&emsp;&ensp; CV Starr Center Research Funding, New York University  
 
 2020-2025 &emsp; Henry M. MacCracken Fellowship, New York University  
 
