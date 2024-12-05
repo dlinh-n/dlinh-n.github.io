@@ -24,7 +24,7 @@ New York University
     Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied microeconomics, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
     
     <br>
-    
+
     Previously, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
@@ -58,9 +58,10 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 
 ### Research Experience
 ---
-2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
+2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
 
-2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, and John Eric Humphries, NYU/UChicago/Yale
+2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, 
+&nbsp; &ensp;&ensp;&emsp;&emsp; and John Eric Humphries, NYU/UChicago/Yale
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
@@ -93,6 +94,7 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 *"Nonpayment and Eviction in the Rental Housing Market"* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). November 2024. *Submitted*. \[[NBER WP](https://www.nber.org/papers/w33155)\]
 
 *"Matching with Random Components: Simulations"* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
+
 <div style="line-height:25%;"> <br> </div>
 
 
@@ -103,6 +105,8 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 *"Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop"*
 
 *"Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles"* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>)
+
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Awards, Honors, and Scholarships
@@ -132,4 +136,4 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 ---
 **Language**: Native Bilingual: Vietnamese, Polish; Fluent: English  
 
-**Computer**: Advanced: Python, R, MATLAB, SAS, LaTeX, Microsoft Office; Intermediate: Julia; Basic: Stata
+**Computer**: Advanced: Python, R, MATLAB, SAS, Microsoft Office; Intermediate: Julia; Basic: Stata
