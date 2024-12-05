@@ -23,7 +23,7 @@ New York University
 
     Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied microeconomics, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
     
-    <br>
+    <div style="line-height:10%;"> <br> </div>
 
     Previously, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
@@ -60,8 +60,8 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 ---
 2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
 
-2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, 
-&nbsp; &ensp;&ensp;&emsp;&emsp; and John Eric Humphries, NYU/UChicago/Yale
+2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, <br>
+     &nbsp; &ensp;&ensp;&emsp;&emsp; and John Eric Humphries, NYU/UChicago/Yale
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
@@ -91,7 +91,7 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 
 ### Working Papers
 ---
-*"Nonpayment and Eviction in the Rental Housing Market"* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). November 2024. *Submitted*. \[[NBER WP](https://www.nber.org/papers/w33155)\]
+*"Nonpayment and Eviction in the Rental Housing Market"* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). November 2024. Submitted. \[[NBER WP](https://www.nber.org/papers/w33155)\]
 
 *"Matching with Random Components: Simulations"* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
 
