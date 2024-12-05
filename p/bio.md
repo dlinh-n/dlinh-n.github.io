@@ -61,7 +61,7 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
 
 2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, <br>
-&emsp;&emsp;&emsp;&ensp;&emsp; and John Eric Humphries, NYU/UChicago/Yale
+&emsp;&emsp;&emsp;&ensp;&emsp;&ensp; and John Eric Humphries, NYU/UChicago/Yale
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
 
