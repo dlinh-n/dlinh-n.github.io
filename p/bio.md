@@ -21,7 +21,7 @@ New York University
 
     <br>
 
-    Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include matching, industrial organization, and applied microeconomics. Previously, he was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide array of industries, including consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
+    Dam Linh Nguyen is a PhD student at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied microeconomics, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. Previously, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
 <div style="line-height:50%;"> <br> </div>
