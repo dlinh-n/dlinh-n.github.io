@@ -6,7 +6,7 @@ title: home
 <img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpeg" alt = "Dam Linh Nguyen"
 style="float:right; padding: 0px 0px 0px 4px">  
 
-I am a PhD Candidate in Economics at NYU (<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>).
+I am a PhD Candidate in Economics at NYU. [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>]
 
 My research blends micro-econometric and industrial organization methods to study a wide range of empirical topics; including:
 <ul>
