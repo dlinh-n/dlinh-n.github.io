@@ -9,7 +9,7 @@ title: bio
 
 **Dam Linh Nguyen**  
 
-Department of Economics
+Department of Economics  
 <a href="https://as.nyu.edu/departments/econ.html">New York University</a>  
 <a href="mailto:n.linh@nyu.edu">n.linh \[at\] nyu.edu</a>  
 <a href="https://dlinh-n.github.io/">https://dlinh-n.github.io/</a>  
