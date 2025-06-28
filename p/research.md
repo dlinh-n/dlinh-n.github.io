@@ -5,10 +5,10 @@ title: research
 
 ### Working Papers
 
-**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. *Submitted*. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">NBER WP</a>]
-[<a href="https://siepr.stanford.edu/publications/policy-brief/regulating-evictions-role-landlords" target="_blank" rel="noopener noreferrer">SIERP Brief</a>]
-[<a href="https://bfi.uchicago.edu/insights/nonpayment-and-eviction-in-the-rental-housing-market/" target="_blank" rel="noopener noreferrer">BFI Brief</a>]
-[<a href="https://www.chicagobooth.edu/review/theres-no-easy-way-stem-evictions" target="_blank" rel="noopener noreferrer">CBR Brief</a>]
+**Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. *Submitted*. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">NBER</a>]
+[<a href="https://bfi.uchicago.edu/insights/nonpayment-and-eviction-in-the-rental-housing-market/" target="_blank" rel="noopener noreferrer">BFI</a>]
+[<a href="https://www.chicagobooth.edu/review/theres-no-easy-way-stem-evictions" target="_blank" rel="noopener noreferrer">CBR</a>]
+[<a href="https://siepr.stanford.edu/publications/policy-brief/regulating-evictions-role-landlords" target="_blank" rel="noopener noreferrer">SIERP</a>]
 <details> 
  <summary> Abstract </summary>
  <br>
