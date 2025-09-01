@@ -55,9 +55,9 @@ New York University
 <div style="line-height:25%;"> <br> </div>
 
 
-### Research Interests
+### Research Fields
 ---
-Empirical Industrial Organization, Applied Microeconomics, Matching
+Empirical Industrial Organization, Applied Microeconomics, Machine Learning, Causal Inference, Matching
 
 <div style="line-height:25%;"> <br> </div>
 
@@ -95,9 +95,9 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 
 ### Working Papers
 ---
-*"Nonpayment and Eviction in the Rental Housing Market"* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). November 2024. Submitted. \[[NBER WP](https://www.nber.org/papers/w33155)\]
+*"Nonpayment and Eviction in the Rental Housing Market"* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. *Submitted*. \[[NBER](https://www.nber.org/papers/w33155)\]
 
-*"Matching with Random Components: Simulations"* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). December 2019. \[[PDF](https://dlinh-n.github.io/f/wp/CNSdraftDec10final.pdf)\]
+*"Matching with Random Components: Simulations"* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). June 2025. \[[PDF](https://bsalanie.github.io/files/CNSdraft11June2025.pdf)\]
 
 <div style="line-height:25%;"> <br> </div>
 
