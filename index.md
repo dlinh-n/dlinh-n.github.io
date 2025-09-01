@@ -6,7 +6,7 @@ title: home
 <img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpeg" alt = "Dam Linh Nguyen"
 style="float:right; padding: 0px 0px 0px 4px">  
 
-I am a PhD Candidate in Economics at NYU with 5+ years of professional experience across merger consulting (NERA) and big tech (Amazon).
+I am a PhD Candidate in Economics at NYU with 5+ years of experience across merger consulting (NERA) and big tech (Amazon).
 
 My research blends micro-econometric and industrial organization methods to study a wide range of empirical topics; including:
 <ul>
