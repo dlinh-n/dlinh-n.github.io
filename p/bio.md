@@ -25,7 +25,7 @@ New York University
     
     <br> <br>
 
-    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing recommendations on the strategic choice of new product launches. Specifically, he developed, estimated, and simulated an econometric model to uncover a new opportunity that would deliver +$2M per year for Amazon's retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. 
+    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing strategic feature selection recommendations for new product launches. Specifically, he developed, estimated, and simulated an econometric model to uncover a new opportunity that would deliver +$2M per year for Amazon's retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. 
     
     <br> <br>
 
