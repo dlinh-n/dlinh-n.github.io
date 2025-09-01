@@ -21,7 +21,7 @@ New York University
 
     <br>
 
-    Dam Linh Nguyen is a PhD Candidate at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied microeconomics, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
+    Dam Linh Nguyen is a PhD Candidate at the Department of Economics at New York University. Linh’s research interests include empirical industrial organization, applied micro-econometrics, machine learning, causal inference, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
     
     <br> <br>
 
@@ -57,7 +57,7 @@ New York University
 
 ### Research Fields
 ---
-Empirical Industrial Organization, Applied Microeconomics, Machine Learning, Causal Inference, Matching
+Empirical IO, Applied Micro-econometrics, Machine Learning, Causal Inference, Matching
 
 <div style="line-height:25%;"> <br> </div>
 
