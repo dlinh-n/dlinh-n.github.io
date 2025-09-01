@@ -25,7 +25,11 @@ New York University
     
     <br> <br>
 
-    Previously, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
+    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing recommendations on the strategic choice of new product launches. Specifically, he developed, estimated, and simulated an econometric model to uncover a new opportunity that would deliver +$2M per year for Amazon's retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He conducted research evaluating the competitive effects of mergers and acquisitions in a wide range of industries---including, consumer packaged goods, data storage technology, and agrochemicals. 
+    
+    <br> <br>
+
+    Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
 </details>
 
 <div style="line-height:50%;"> <br> </div>
@@ -58,6 +62,17 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 <div style="line-height:25%;"> <br> </div>
 
 
+### Professional Experience
+---
+2025 &ensp;&ensp;&emsp;&emsp;&ensp; PhD Economist Intern, Amazon.com
+
+2015-2020 &emsp; Senior Analyst, NERA Economic Consulting  
+
+2014 &ensp;&ensp;&emsp;&emsp;&ensp; Part-time Intern, TAU Investment Management  
+
+<div style="line-height:25%;"> <br> </div>
+
+
 ### Research Experience
 ---
 2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
@@ -74,19 +89,6 @@ Empirical Industrial Organization, Applied Microeconomics, Matching
 2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Olivier Giovannoni, Levy Economics Institute/Bard College  
 
 2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Levy Economics Institute/Bard College  
-
-<div style="line-height:25%;"> <br> </div>
-
-
-### Other Experience
----
-2015-2020 &emsp; Senior Analyst, NERA Economic Consulting  
-
-2014 &ensp;&ensp;&emsp;&emsp;&ensp; Part-time Intern, TAU Investment Management  
-
-2012 &ensp;&ensp;&emsp;&emsp;&ensp; Economics Assistant in Course Development, Bard College  
-
-2011 &ensp;&ensp;&emsp;&emsp;&ensp; Mathematics Tutor, Bard College  
 
 <div style="line-height:25%;"> <br> </div>
 
