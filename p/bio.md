@@ -95,7 +95,7 @@ Empirical IO, Applied Micro-econometrics, Machine Learning, Causal Inference, Ma
 
 ### Working Papers
 ---
-*Nonpayment and Eviction in the Rental Housing Market* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. Revision requested at *Journal of Political Economy*.
+*Nonpayment and Eviction in the Rental Housing Market* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. R&R at *Journal of Political Economy*.
 
 *The Econometrics of Matching with Transferable Utility: A Progress Report* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). June 2025. [<a href="https://bsalanie.github.io/files/CNSdraft11June2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
@@ -104,11 +104,11 @@ Empirical IO, Applied Micro-econometrics, Machine Learning, Causal Inference, Ma
 
 ### Work in Progress
 ---
-*"The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market"*
+*"The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market."*
 
-*"Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop"*
+*"Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop."*
 
-*"Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles"* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>)
+*"Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles"* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>).
 
 <div style="line-height:25%;"> <br> </div>
 
