@@ -3,8 +3,8 @@ layout: home
 title: home
 ---
 
-<img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpg" alt = "Dam Linh Nguyen"
-style="float:right; padding: 0px 0px 0px 4px">  
+<img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpeg" alt = "Dam Linh Nguyen"
+style="float:right; padding: 0px 0px 0px 4px; width:50%; height:auto">  
 
 I am a PhD Candidate in Economics at NYU with 5+ years of experience across merger consulting (NERA) and big tech (Amazon).
 
