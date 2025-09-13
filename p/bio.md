@@ -25,11 +25,11 @@ New York University
     
     <br> <br>
 
-    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing optimal feature selection recommendations for new product launches. Specifically, he developed, estimated, and simulated an econometric model to uncover a new opportunity that would deliver +$2M per year for Amazon's retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He led teams of analysts and conducted competitive research, contributing to the completion of multi-billion dollar mergers in consumer packaged goods, data storage technology, and agrochemicals, among other industries. 
+    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing optimal feature selection recommendations for new product launches. Specifically, he developed, estimated, and simulated demand models to uncover a new opportunity projected to generate over $2M annually for Amazon’s retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He led teams of analysts and conducted competitive research, contributing to the completion of multi-billion dollar mergers in consumer packaged goods, data storage technology, and agrochemicals, among other industries. 
     
     <br> <br>
 
-    Linh earned a BSc in Applied Mathematics, magna cum laude, from Columbia University and a BA in Economics as a Levy Institute Scholar from Bard College.
+    Linh earned an MPhil in Economics from NYU; a BSc in Applied Mathematics, magna cum laude, from Columbia University; and a BA in Economics, as a Levy Institute Scholar, from Bard College.
 </details>
 
 <div style="line-height:50%;"> <br> </div>
