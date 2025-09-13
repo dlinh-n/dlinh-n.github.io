@@ -9,7 +9,7 @@ title: research
 [<a href="https://bfi.uchicago.edu/insights/nonpayment-and-eviction-in-the-rental-housing-market/" target="_blank" rel="noopener noreferrer">BFI</a>]
 [<a href="https://www.chicagobooth.edu/review/theres-no-easy-way-stem-evictions" target="_blank" rel="noopener noreferrer">CBR</a>]
 [<a href="https://siepr.stanford.edu/publications/policy-brief/regulating-evictions-role-landlords" target="_blank" rel="noopener noreferrer">SIERP</a>] 
-[<a href="https://www.nber.org/digest/202502/can-policy-interventions-reduce-evictions" target="_blank" rel="noopener noreferrer">NBER Digest</a>]. Revision requested at *Journal of Political Economy*.
+[<a href="https://www.nber.org/digest/202502/can-policy-interventions-reduce-evictions" target="_blank" rel="noopener noreferrer">NBER</a>]. Revision requested at *Journal of Political Economy*.
 <details> 
  <summary> Abstract </summary>
  <br>
