@@ -75,19 +75,19 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 ### Research Experience
 ---
-2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Nathaniel Hickok and Aaron Berman, NYU/MIT
+2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with N. Hickok and A. Berman, NYU/MIT
 
-2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Daniel Waldinger, Scott Nelson, Winnie van Dijk, and John Eric <br> &emsp;&emsp;&emsp;&ensp;&emsp;&ensp;&emsp; Humphries, NYU/UChicago/Yale
+2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with D. Waldinger, S. Nelson, W. van Dijk, and J.E. Humphries, NYU/UChicago/Yale
 
-2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with Pierre-André Chiappori and Bernard Salanié, Columbia University  
+2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
 
-2014-2015 &emsp; Research Assistant to Pierre-André Chiappori and Bernard Salanié, Columbia University  
+2014-2015 &emsp; Research Assistant to P.A. Chiappori and B. Salanié, Columbia University  
 
-2015 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Wojciech Kopczuk, Columbia University  
+2015 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to W. Kopczuk, Columbia University  
 
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Olivier Giovannoni, Levy Economics Institute/Bard College  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to O. Giovannoni, Levy Economics Institute/Bard College  
 
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to Sanjaya DeSilva, Levy Economics Institute/Bard College  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to S. DeSilva, Levy Economics Institute/Bard College  
 
 <div style="line-height:25%;"> <br> </div>
 
