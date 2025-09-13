@@ -77,7 +77,7 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 ---
 2023-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with N. Hickok and A. Berman, NYU/MIT
 
-2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with D. Waldinger, S. Nelson, W. van Dijk, and J.E. Humphries, NYU/UChicago/Yale
+2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with D. Waldinger, S. Nelson, W. van Dijk, and J.E. Humphries, NYU/Booth/Yale
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
 
