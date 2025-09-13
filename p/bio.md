@@ -34,7 +34,7 @@ New York University
 
 <div style="line-height:50%;"> <br> </div>
 
-**Resume** \[[PDF](https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf)\]
+**Resume** [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
 
 
 <div style="line-height:50%;"> <br> </div>
@@ -95,9 +95,9 @@ Empirical IO, Applied Micro-econometrics, Machine Learning, Causal Inference, Ma
 
 ### Working Papers
 ---
-*Nonpayment and Eviction in the Rental Housing Market* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [\[PDF(https://www.nber.org/papers/w33155)\]]. Revision requested at *Journal of Political Economy*.
+*Nonpayment and Eviction in the Rental Housing Market* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. Revision requested at *Journal of Political Economy*.
 
-*The Econometrics of Matching with Transferable Utility: A Progress Report* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). June 2025. [\[PDF(https://bsalanie.github.io/files/CNSdraft11June2025.pdf)\]]
+*The Econometrics of Matching with Transferable Utility: A Progress Report* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). June 2025. [<a href="https://bsalanie.github.io/files/CNSdraft11June2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
 <div style="line-height:25%;"> <br> </div>
 
