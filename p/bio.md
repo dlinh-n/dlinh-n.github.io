@@ -50,8 +50,6 @@ New York University
 
 2010-2013 &emsp; BA in Economics, Bard College  
 
-2012 &ensp;&ensp;&emsp;&emsp;&ensp; Summer Program, London School of Economics  
-
 <div style="line-height:25%;"> <br> </div>
 
 
