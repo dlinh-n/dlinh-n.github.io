@@ -3,7 +3,7 @@ layout: other
 title: bio
 ---
 
-*September 2025*
+*October 2025*
 
 <div style="line-height:50%;"> <br> </div>
 
