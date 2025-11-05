@@ -5,8 +5,6 @@ title: research
 
 ### Working Papers
 
-<div style="line-height:50%;"> <br> </div>
-
 **Nonpayment and Eviction in the Rental Housing Market** (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [<a href="https://www.nber.org/system/files/working_papers/w33155/w33155.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]. Policy Briefs: 
 [<a href="https://bfi.uchicago.edu/insights/nonpayment-and-eviction-in-the-rental-housing-market/" target="_blank" rel="noopener noreferrer">BFI</a>]
 [<a href="https://www.chicagobooth.edu/review/theres-no-easy-way-stem-evictions" target="_blank" rel="noopener noreferrer">CBR</a>]
@@ -49,7 +47,5 @@ title: research
 <div style="line-height:100%;"> <br> </div>
 
 ### Work in Progress
-
-<div style="line-height:50%;"> <br> </div>
 
 **Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop**
