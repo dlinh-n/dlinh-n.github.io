@@ -101,7 +101,7 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 ### Work in Progress
 ---
-*"Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop."*
+*Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop.*
 
 <div style="line-height:25%;"> <br> </div>
 
