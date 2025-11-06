@@ -36,7 +36,7 @@ title: research
 
 <div style="line-height:75%;"> <br> </div>
 
-**The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market**. Draft available upon request.
+**The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market**. November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 <details> 
  <summary> Abstract </summary>
  <br>
