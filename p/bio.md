@@ -88,20 +88,20 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 ### Working Papers
 ---
-<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">Nonpayment and Eviction in the Rental Housing Market</a> (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). R&R at *Journal of Political Economy*.
+*Nonpayment and Eviction in the Rental Housing Market* (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. R&R at *Journal of Political Economy*.
 
-<a href="https://bsalanie.github.io/files/CNSdraft21October2025.pdf" target="_blank" rel="noopener noreferrer">The Econometrics of Matching with Transferable Utility: A Progress Report</a> (with P.A. Chiappori and B. Salanié). Submitted.
+*The Econometrics of Matching with Transferable Utility: A Progress Report* (with P.A. Chiappori and B. Salanié). October 2025. [<a href="https://bsalanie.github.io/files/CNSdraft21October2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]. Submitted.
 
-<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles</a> (with A. Berman and N. Hickok).
+*Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles* (with A. Berman and N. Hickok). November 2025. [<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">PDF</a>].
 
-<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market</a>.
+*The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market.* November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
 <div style="line-height:25%;"> <br> </div>
 
 
 ### Work in Progress
 ---
-Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop.
+*Copyrights and Product Variety: Evidence from the Golden Age of Hip Hop.*
 
 <div style="line-height:25%;"> <br> </div>
 
