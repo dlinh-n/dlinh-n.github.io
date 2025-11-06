@@ -88,15 +88,13 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 ### Working Papers
 ---
-<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">Nonpayment and Eviction in the Rental Housing Market</a> (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). June 2025. R&R at *Journal of Political Economy*.
+<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">Nonpayment and Eviction in the Rental Housing Market</a> (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). R&R at *Journal of Political Economy*.
 
-*Nonpayment and Eviction in the Rental Housing Market* (with <a href="https://johnerichumphries.com/" target="_blank" rel="noopener noreferrer">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson" target="_blank" rel="noopener noreferrer">Scott Nelson</a>, <a href="https://sites.google.com/site/winnielillianvandijk/" target="_blank" rel="noopener noreferrer">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/home" target="_blank" rel="noopener noreferrer">Daniel Waldinger</a>). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. R&R at *Journal of Political Economy*.
+<a href="https://bsalanie.github.io/files/CNSdraft21October2025.pdf" target="_blank" rel="noopener noreferrer">The Econometrics of Matching with Transferable Utility: A Progress Report</a> (with P.A. Chiappori and B. Salanié). Submitted.
 
-*The Econometrics of Matching with Transferable Utility: A Progress Report* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). October 2025. [<a href="https://bsalanie.github.io/files/CNSdraft21October2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
+<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles</a> (with A. Berman and N. Hickok).
 
-*Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>). November 2025. [<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">PDF</a>]. Submitted.
-
-*The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market.* November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
+<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market</a>.
 
 <div style="line-height:25%;"> <br> </div>
 
