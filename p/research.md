@@ -27,7 +27,7 @@ title: research
 
 <div style="line-height:75%;"> <br> </div>
 
-**Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles** (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>). Draft available soon.
+**Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles** (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>). November 2025. [<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">PDF</a>].
 <details> 
  <summary> Abstract </summary>
  <br>
