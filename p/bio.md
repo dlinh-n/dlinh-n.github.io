@@ -62,7 +62,7 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 ### Professional Experience
 ---
-2025 &ensp;&ensp;&emsp;&emsp;&ensp; PhD Economist Intern, Amazon
+2025 &ensp;&ensp;&emsp;&emsp;&ensp; PhD Economist Intern, Amazon.com
 
 2015-2020 &emsp; Senior Analyst, NERA Economic Consulting  
 
