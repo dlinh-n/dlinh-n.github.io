@@ -79,13 +79,9 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
 
-2014-2015 &emsp; Research Assistant to P.A. Chiappori and B. Salanié, Columbia University  
+2014-2015 &emsp; Research Assistant to P.A. Chiappori, B. Salanié, and W. Kopczuk, Columbia University  
 
-2015 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to W. Kopczuk, Columbia University  
-
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to O. Giovannoni, Levy Economics Institute/Bard College  
-
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to S. DeSilva, Levy Economics Institute/Bard College  
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to O. Giovannoni and S. DeSilva, Levy Institute/Bard
 
 <div style="line-height:25%;"> <br> </div>
 
