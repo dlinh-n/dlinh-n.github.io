@@ -92,9 +92,9 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 *The Econometrics of Matching with Transferable Utility: A Progress Report* (with <a href="http://www.columbia.edu/~pc2167/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="http://bsalanie.com/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). June 2025. [<a href="https://bsalanie.github.io/files/CNSdraft11June2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
-*"Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles"* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>). Draft coming soon.
+*Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles* (with <a href="https://sites.google.com/view/aaronberman/" target="_blank" rel="noopener noreferrer">Aaron Berman</a> and <a href="https://economics.mit.edu/people/phd-students/nathaniel-hickok" target="_blank" rel="noopener noreferrer">Nathaniel Hickok</a>). Draft coming soon.
 
-*"The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market."* November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
+*The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market.* November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
 <div style="line-height:25%;"> <br> </div>
 
