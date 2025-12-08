@@ -94,7 +94,7 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 
 *Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles* (with A. Berman and N. Hickok). November 2025. [<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">PDF</a>].
 
-*The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market* (Job Market Paper). November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20250611.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
+*The Distributional Effects of Data Interoperability: Evidence from the U.S. Residential Mortgage Market* (Job Market Paper). November 2025. [<a href="https://dlinh-n.github.io/f/wp/dam_linh_nguyen_jmp_draft_20251106.pdf" target="_blank" rel="noopener noreferrer">PDF</a>].
 
 <div style="line-height:25%;"> <br> </div>
 
