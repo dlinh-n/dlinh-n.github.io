@@ -3,7 +3,7 @@ layout: other
 title: bio
 ---
 
-*January 2026*
+*March 2026*
 
 <div style="line-height:50%;"> <br> </div>
 
@@ -65,8 +65,6 @@ Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Sci
 2025 &ensp;&ensp;&emsp;&emsp;&ensp; PhD Economist Intern, Amazon.com
 
 2015-2020 &emsp; Senior Analyst, NERA Economic Consulting  
-
-2014 &ensp;&ensp;&emsp;&emsp;&ensp; Part-time Intern, TAU Investment Management  
 
 <div style="line-height:25%;"> <br> </div>
 
