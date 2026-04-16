@@ -75,7 +75,7 @@ Applied Econometrics, Machine Learning, Causal Inference, Data Science, Empirica
 
 2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with D. Waldinger, S. Nelson, W. van Dijk, and J.E. Humphries, NYU/Booth/Yale
 
-2019-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
+2016-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
 
 2014-2015 &emsp; Research Assistant to P.A. Chiappori, B. Salanié, and W. Kopczuk, Columbia University  
 
