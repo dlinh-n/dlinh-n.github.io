@@ -18,11 +18,11 @@ title: research
 
 <div style="line-height:75%;"> <br> </div>
 
-**The Econometrics of Matching with Transferable Utility: A Progress Report** (with <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). October 2025. [<a href="https://bsalanie.github.io/files/CNSdraft21October2025.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]. Submitted.
+**The Econometrics of Matching with Transferable Utility: A Progress Report** (with <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). April 2026. [<a href="https://dlinh-n.github.io/f/wp/CNS12April2026.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]. Forthcoming in *Journal of Mechanism and Institution Design*.
 <details> 
  <summary> Abstract </summary>
  <br>
- Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodogical developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
+ Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodological developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
 </details>
 
 <div style="line-height:75%;"> <br> </div>
