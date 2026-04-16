@@ -55,7 +55,7 @@ New York University
 
 ### Research Fields
 ---
-Empirical IO, Applied Econometrics, Machine Learning, Causal Inference, Data Science, Matching
+Applied Econometrics, Machine Learning, Causal Inference, Data Science, Empirical IO, Matching
 
 <div style="line-height:25%;"> <br> </div>
 
