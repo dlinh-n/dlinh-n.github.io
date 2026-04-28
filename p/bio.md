@@ -55,11 +55,11 @@ Applied Econometrics, Causal Inference, Data Science, Machine Learning, Empirica
 
 2022-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with D. Waldinger, S. Nelson, W. van Dijk, and J.E. Humphries, NYU/Booth/Yale
 
-2016-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia University  
+2016-&nbsp; &ensp;&ensp;&emsp;&emsp; Co-author with P.A. Chiappori and B. Salanié, Columbia  
 
-2014-2015 &emsp; Research Assistant to P.A. Chiappori, B. Salanié, and W. Kopczuk, Columbia University  
+2014-2015 &emsp; Research Assistant to P.A. Chiappori, B. Salanié, and W. Kopczuk, Columbia  
 
-2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to O. Giovannoni and S. DeSilva, Levy Economics Institute/Bard
+2013 &ensp;&ensp;&emsp;&emsp;&ensp; Research Assistant to O. Giovannoni and S. DeSilva, Levy Economics/Bard
 
 <div style="line-height:25%;"> <br> </div>
 
@@ -86,23 +86,23 @@ Applied Econometrics, Causal Inference, Data Science, Machine Learning, Empirica
 
 ### Awards, Honors, and Scholarships
 ---
-2022 &emsp;&emsp;&emsp;&ensp; CV Starr Center Research Funding, New York University  
+2022 &emsp;&emsp;&emsp;&ensp; CV Starr Center Research Funding, NYU  
 
-2020-2025 &emsp; Henry M. MacCracken Fellowship, New York University  
+2020-2025 &emsp; Henry M. MacCracken Fellowship, NYU  
 
-2020-2021 &emsp; NYU Economics Summer Stipend, New York University  
+2020-2021 &emsp; NYU Economics Summer Stipend, NYU  
 
-2015 &emsp;&emsp;&emsp;&ensp; Magna Cum Laude, Columbia University  
+2015 &emsp;&emsp;&emsp;&ensp; Magna Cum Laude, Columbia
 
-2013-2015 &emsp; Dean’s List, Columbia University  
+2013-2015 &emsp; Dean’s List, Columbia
 
-2013 &emsp;&emsp;&emsp;&ensp; Amicus Foundation Scholarship, Bard College  
+2013 &emsp;&emsp;&emsp;&ensp; Amicus Foundation Scholarship, Bard  
 
-2013 &emsp;&emsp;&emsp;&ensp; BSRI Research Stipend, Bard College  
+2013 &emsp;&emsp;&emsp;&ensp; BSRI Research Stipend, Bard  
 
-2010-2013 &emsp; Levy Economics Institute Scholarship, Bard College  
+2010-2013 &emsp; Levy Economics Institute Scholarship, Bard  
 
-2010-2013 &emsp; NCAA Men’s Soccer All-Academic Team, Bard College    
+2010-2013 &emsp; NCAA Men’s Soccer All-Academic Team, Bard    
 
 <div style="line-height:25%;"> <br> </div>
 
