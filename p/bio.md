@@ -5,19 +5,19 @@ title: bio
 
 *April 2026*
 
-<div style="line-height:50%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 **Dam Linh Nguyen**  
 
 <a href="mailto:n.linh@nyu.edu">n.linh \[at\] nyu.edu</a>  
 <a href="https://dlinh-n.github.io/">https://dlinh-n.github.io/</a>  
 
-<div style="line-height:50%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 **Resume** [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
 
 
-<div style="line-height:50%;"> <br> </div>
+<div style="line-height:25%;"> <br> </div>
 
 
 ### Education
