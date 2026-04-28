@@ -35,7 +35,7 @@ title: bio
 
 ### Research Fields
 ---
-Applied Econometrics, Machine Learning, Causal Inference, Data Science, Empirical IO, Matching
+Applied Econometrics, Causal Inference, Data Science, Machine Learning, Empirical IO, Matching
 
 <div style="line-height:25%;"> <br> </div>
 
