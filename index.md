@@ -14,7 +14,7 @@ I completed my PhD at NYU. My research blends micro-econometric and IO methods t
   <li>technology adoption</li>
   <li>firm and product substitution</li>
   <li>consumer demand, search, and matching</li>
-  <li>competition regulation and economic strategy.</li>
+  <li>competition policy and economic strategy.</li>
 </ul>
 
 [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>]
