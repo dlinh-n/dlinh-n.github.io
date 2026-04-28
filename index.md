@@ -12,7 +12,7 @@ I completed my PhD at NYU. My research blends micro-econometric and IO methods t
 <ul>
   <li>eviction policy </li>
   <li>technology adoption</li>
-  <li>firm and product competition </li>
+  <li>firm and product substitution </li>
   <li>consumer demand, search, and matching</li>
   <li>competition regulation and economic strategy</li>
 </ul>
