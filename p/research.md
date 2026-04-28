@@ -18,7 +18,7 @@ title: research
 
 <div style="line-height:75%;"> <br> </div>
 
-**The Econometrics of Matching with Transferable Utility: A Progress Report** (with <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). April 2026. [<a href="https://dlinh-n.github.io/f/wp/CNS12April2026.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]. Forthcoming in *Journal of Mechanism and Institution Design*.
+**The Econometrics of Matching with Transferable Utility: A Progress Report** (with <a href="https://econ.columbia.edu/econpeople/pierre-andre-chiappori-2/" target="_blank" rel="noopener noreferrer">Pierre-André Chiappori</a> and <a href="https://bsalanie.github.io/" target="_blank" rel="noopener noreferrer">Bernard Salanié</a>). April 2026. [<a href="https://arxiv.org/abs/2604.16127" target="_blank" rel="noopener noreferrer">PDF</a>]. Forthcoming in *Journal of Mechanism and Institution Design*.
 <details> 
  <summary> Abstract </summary>
  <br>
