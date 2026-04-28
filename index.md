@@ -17,6 +17,6 @@ I completed my PhD at NYU. My research blends micro-econometric and IO methods t
   <li>competition policy and business strategy.</li>
 </ul>
 
-[<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>]
+For more information, please visit my <a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">resume</a>.
 
 <div style="line-height:175%;"> <br> </div>
