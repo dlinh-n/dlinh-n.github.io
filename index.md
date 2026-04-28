@@ -8,7 +8,7 @@ style="float:right; padding: 0px 0px 0px 4px; width:30%; height:30%">
 
 I'm a Competition Economist at Google, where I work at the frontier of digital technology, regulation, and economic strategy.
 
-I completed my PhD at NYU. My research blends micro-econometric and IO methods to study a wide range of topics, including:
+I completed my PhD at NYU. My research blends econometric and IO methods to study a wide range of topics, including:
 <ul>
   <li>eviction policy </li>
   <li>technology adoption</li>
