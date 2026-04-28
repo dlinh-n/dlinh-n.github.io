@@ -66,9 +66,9 @@ Applied Econometrics, Causal Inference, Data Science, Machine Learning, Empirica
 
 ### Working Papers
 ---
-*Nonpayment and Eviction in the Rental Housing Market* (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. R&R at *JPE*.
+*Nonpayment and Eviction in the Rental Housing Market* (with J.E. Humphries, S. Nelson, W. van Dijk, and D. Waldinger). June 2025. [<a href="https://www.nber.org/papers/w33155" target="_blank" rel="noopener noreferrer">PDF</a>]. R&R at JPE.
 
-*The Econometrics of Matching with Transferable Utility: A Progress Report* (with P.A. Chiappori and B. Salanié). April 2026. [<a href="https://arxiv.org/abs/2604.16127" target="_blank" rel="noopener noreferrer">PDF</a>]. Forthcoming in *jMID*.
+*The Econometrics of Matching with Transferable Utility: A Progress Report* (with P.A. Chiappori and B. Salanié). April 2026. [<a href="https://arxiv.org/abs/2604.16127" target="_blank" rel="noopener noreferrer">PDF</a>]. Forthcoming in jMID.
 
 *Out with the Old, In with the New: Equity and Efficiency of Secondary-Market Subsidies for Electric Vehicles* (with A. Berman and N. Hickok). November 2025. [<a href="https://drive.google.com/file/d/1uj23ZmhQmEWXsbFjq9LPHNiytjsGjGh0/view" target="_blank" rel="noopener noreferrer">PDF</a>].
 
