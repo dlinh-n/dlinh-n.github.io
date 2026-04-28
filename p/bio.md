@@ -40,7 +40,7 @@ Applied Econometrics, Causal Inference, Data Science, Machine Learning, Empirica
 
 ### Professional Experience
 ---
-2026-&nbsp; &ensp;&ensp;&emsp;&emsp; Competition Economict, Google
+2026-&nbsp; &ensp;&ensp;&emsp;&emsp; Competition Economist, Google
 
 2025 &ensp;&ensp;&emsp;&emsp;&ensp; PhD Economist Intern, Amazon.com
 
