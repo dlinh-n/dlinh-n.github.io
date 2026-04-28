@@ -9,28 +9,8 @@ title: bio
 
 **Dam Linh Nguyen**  
 
-Department of Economics  
-New York University  
 <a href="mailto:n.linh@nyu.edu">n.linh \[at\] nyu.edu</a>  
 <a href="https://dlinh-n.github.io/">https://dlinh-n.github.io/</a>  
-
-<div style="line-height:50%;"> <br> </div>
-
-<details>
-    <summary> Bio </summary>
-
-    <br>
-
-    Dam Linh Nguyen is a PhD Candidate in Economics at NYU. Linh’s research fields include empirical industrial organization, applied micro-econometrics, machine learning, causal inference, and matching. His academic work has covered a diverse array of topics: from eviction policy and electric vehicle subsidy design to the distributional effects of open banking in credit markets. 
-    
-    <br> <br>
-
-    In summer 2025, Linh supported assortment planning for Amazon Private Brands by providing optimal feature selection recommendations for new product launches. Specifically, he developed, estimated, and simulated demand models to uncover a new opportunity projected to generate over $2M annually for Amazon’s retail business. Between 2015 and 2020, Linh was a Senior Analyst in the Antitrust Group at NERA Economic Consulting. He led teams of analysts and conducted competition research, contributing to the completion of multi-billion dollar mergers in consumer packaged goods, data storage technology, and agrochemicals, among other industries. 
-    
-    <br> <br>
-
-    Linh earned an MPhil in Economics from NYU; a BSc in Applied Mathematics, magna cum laude, from Columbia University; and a BA in Economics, as a Levy Institute Scholar, from Bard College.
-</details>
 
 <div style="line-height:50%;"> <br> </div>
 
