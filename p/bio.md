@@ -22,9 +22,7 @@ title: bio
 
 ### Education
 ---
-2020-&nbsp; &ensp;&ensp;&emsp;&emsp; PhD in Economics, New York University  
-
-2020-2024 &emsp; MPhil in Economics, New York University
+2020-2026 &emsp; PhD and MPhil in Economics, New York University  
 
 2013-2015 &emsp; BSc in Applied Mathematics, Columbia University  
 
