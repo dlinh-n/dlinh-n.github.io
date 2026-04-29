@@ -14,7 +14,7 @@ title: bio
 
 <div style="line-height:25%;"> <br> </div>
 
-**Resume** [<a href="https://dlinh-n.github.io/f/bio1/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">Short</a>] [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">Long</a>]
+**Resume** [<a href="https://dlinh-n.github.io/f/bio/dam_linh_nguyen_resume.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
 
 
 <div style="line-height:25%;"> <br> </div>
