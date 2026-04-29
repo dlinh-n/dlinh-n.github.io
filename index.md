@@ -6,7 +6,7 @@ title: home
 <img src="https://dlinh-n.github.io/f/img/dam_linh_nguyen.jpeg" alt = "Dam Linh Nguyen"
 style="float:right; padding: 0px 0px 0px 4px; width:30%; height:30%">  
 
-I'm a Competition Economist at Google, working at the frontier of digital technology, regulation, and economic strategy.
+I'm a Competition Economist at Google, working at the crossroads of digital technology, regulation, and economic strategy.
 
 I completed my PhD at NYU. My research blends econometric and IO methods to study a wide range of topics, including:
 <ul>
